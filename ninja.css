@@ -1,0 +1,10 @@
+#wrapper{
+    width: 400px;
+    height: 250px;
+    display: inline-block;
+}
+.ninja{
+    width: 90px;
+    height: 100px;
+    display: inline-block;
+}
